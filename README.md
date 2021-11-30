@@ -19,7 +19,7 @@ Available built-in trackers in OpenCV:
  "medianflow": cv2.legacy.TrackerMedianFlow_create,
  "mosse": cv2.legacy.TrackerMOSSE_create
 ```
-CSRT is recommended for ball-tracking in the sample videos 
+CSRT is recommended for ball-tracking in the sample videos since it provides higher accuracy despite the lower FPS
 
 
 The results with object tracking is recorded in test0.avi file in the same repository
