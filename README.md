@@ -1,5 +1,5 @@
 # ROI-ball-tracking
-Single object tracking with ROI selection and OpenCV build-in trackers
+Single object tracking with ROI selection and OpenCV built-in trackers
 
 Typical command to run the program:
 ```
