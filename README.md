@@ -1,5 +1,11 @@
 # ROI-ball-tracking
 Single object tracking with ROI selection and OpenCV built-in trackers
+### Built With
+I plan to use TensorFlow to optimize the model a bit better.
+* [Python](https://www.python.org/)
+* [NumPy](https://numpy.org/)
+* [OpenCV](https://opencv.org/)
+
 
 Typical command to run the program:
 ```
