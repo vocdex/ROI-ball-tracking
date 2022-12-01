@@ -5,6 +5,7 @@ I plan to use TensorFlow to optimize the model a bit better.
 * [Python](https://www.python.org/)
 * [NumPy](https://numpy.org/)
 * [OpenCV](https://opencv.org/)
+* [Imutils](https://pypi.org/project/imutils/)
 
 
 Typical command to run the program:
